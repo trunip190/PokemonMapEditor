@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SpriteSheets>
+  <sheet name="Trees">Location</sheet>
+  <sheet name="Player">Location</sheet>
+  <sheet name="Items">Location</sheet>
+</SpriteSheets>

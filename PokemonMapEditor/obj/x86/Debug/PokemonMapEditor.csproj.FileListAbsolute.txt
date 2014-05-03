@@ -1,0 +1,102 @@
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\PokemonMapEditor\bin\Debug\PokemonMapEditor.exe
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\PokemonMapEditor\bin\Debug\PokemonMapEditor.pdb
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\PokemonMapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.Form1.resources
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.Properties.Resources.resources
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\PokemonMapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\PokemonMapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.exe
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.pdb
+C:\Documents and Settings\Chris\My Documents\Visual Studio 2010\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.exe
+C:\Documents and Settings\Chris\My Documents\Visual Studio 2010\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.pdb
+C:\Documents and Settings\Chris\My Documents\Visual Studio 2010\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chris\My Documents\Visual Studio 2010\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.Form1.resources
+C:\Documents and Settings\Chris\My Documents\Visual Studio 2010\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.Properties.Resources.resources
+C:\Documents and Settings\Chris\My Documents\Visual Studio 2010\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Chris\My Documents\Visual Studio 2010\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Chris\My Documents\Visual Studio 2010\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\PokemonMapEditor.exe
+C:\Documents and Settings\Chris\My Documents\Visual Studio 2010\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\PokemonMapEditor.pdb
+C:\Documents and Settings\Chris\My Documents\Visual Studio 2010\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.XMLeditor.resources
+C:\Users\Chris\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.exe
+C:\Users\Chris\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.pdb
+C:\Users\Chris\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\PokemonMapEditor.exe
+C:\Users\Chris\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\PokemonMapEditor.pdb
+C:\Users\Chris\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.Form1.resources
+C:\Users\Chris\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.Properties.Resources.resources
+C:\Users\Chris\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.XMLeditor.resources
+C:\Users\Chris\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\PokemonMapEditor.exe.config
+C:\Documents and Settings\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\PokemonMapEditor.exe.config
+C:\Documents and Settings\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.exe
+C:\Documents and Settings\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.pdb
+C:\Documents and Settings\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\PokemonMapEditor.exe
+C:\Documents and Settings\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\PokemonMapEditor.pdb
+C:\Documents and Settings\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.Form1.resources
+C:\Documents and Settings\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.Properties.Resources.resources
+C:\Documents and Settings\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.XMLeditor.resources
+C:\Documents and Settings\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Settings.cs
+C:\Documents and Settings\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\Stamps.xml
+C:\Users\Chris\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Settings.cs
+C:\Users\Chris\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\Stamps.xml
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\PokemonMapEditor.exe.config
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.exe
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.pdb
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Settings.cs
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\Stamps.xml
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\PokemonMapEditor.exe
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\PokemonMapEditor.pdb
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.Form1.resources
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.Properties.Resources.resources
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.csproj.GenerateResource.Cache
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\XmlParse.dll
+C:\Users\Chris\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\XmlParse.pdb
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\XmlParse.dll
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\XmlParse.pdb
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\PokemonMapEditor.exe.config
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.exe
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.pdb
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.Editor.resources
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Settings.cs
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\Stamps.xml
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\PokemonMapEditor.exe
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\PokemonMapEditor.pdb
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\XmlParse.dll
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\XmlParse.pdb
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.Editor.resources
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.Form1.resources
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.Properties.Resources.resources
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.SpritePicker.resources
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.SpritePicker.resources
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\cityspritesheet20lj.png
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\heromfoverworld.png
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\hgsstilesetp.png
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\indoortilesset.png
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\OverworldItems.png
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\pokemonrubysapphire_people_sheet.png
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\tileset2.png
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\trees.png
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.PokemonPicker.resources
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\cityspritesheet20lj.png
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\heromfoverworld.png
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\hgsstilesetp.png
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\indoortilesset.png
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\OverworldItems.png
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\pokemonrubysapphire_people_sheet.png
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\tileset2.png
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\TileSets\trees.png
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.PokemonPicker.resources
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\MoveList.xml
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\MoveList.xml
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.ConversationEditor.resources
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\obj\x86\Debug\PokemonMapEditor.ConversationEditor.resources
+C:\Users\SOI\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\ItemList.xml
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\PokemonMapEditor\PokemonMapEditor\bin\Debug\Resources\ItemList.xml

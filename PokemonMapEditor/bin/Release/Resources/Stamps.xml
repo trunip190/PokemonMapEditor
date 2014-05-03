@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Stamps>
+	<Object Name="Grass">
+		<Attribute name="Type" Value="1"/>
+		<Attribute name="Name" Value="Grass"/>
+	</Object>
+	<Object Name="Tree">
+		<Attribute name="Type" Value="3"/>
+		<Attribute name="Name" Value="Tree"/>
+		<Attribute name="xStart" value="0"/>
+		<Attribute name="yStart" value="6"/>
+		<Attribute name="Terrain" Value="2"/>
+	</Object>
+	<Object Name="Trainer">
+		<Attribute name="Type" Value="6"/>
+		<Attribute name="Name" Value="Trainer"/>
+		<Attribute name="Terrain" Value="2"/>
+	</Object>
+  <Object Name="House">
+    <Attribute name="Type" Value="6"/>
+    <Attribute name="Name" Value="House"/>
+    <Attribute name="Terrain" Value="2"/>
+  </Object>
+</Stamps>
